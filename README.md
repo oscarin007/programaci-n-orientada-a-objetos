@@ -1,11 +1,10 @@
-# programaci-n-orientada-a-objetos
+# programaci-n-orientada-a-objetos-calculadora
 //PROGRAM.CS
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 
 namespace operaciones
 {
